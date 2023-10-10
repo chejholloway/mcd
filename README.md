@@ -1,4 +1,4 @@
-# NBC-Exercise
+# MCD-Exercise
 
 ## Instructions:
 
